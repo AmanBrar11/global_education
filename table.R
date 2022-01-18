@@ -22,5 +22,8 @@ aggregate_table <- reading_vs_spending %>%
    ) %>%
    arrange(desc(Efficiency))
 
-Table <- aggregate_table %>%
+Table <- aggregate_table %>% # does it need to be fewer rows?
    select(Entity, Efficiency)
+
+
+

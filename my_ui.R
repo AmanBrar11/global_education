@@ -233,10 +233,10 @@ intro <- tabPanel(
    "Introduction",
    h1("Education Across the Globe"),
    imageOutput("myImage"),
-   h4("Created By: Nathan Ford, Kenny Pham, Aaron Gitell, and Aman Brar"),
+   h4("Created By: Aman Brar, Nathan Ford, Kenny Pham, and Aaron Gitell"),
    h5("December 8th, 2021"),
    br(),
-   h4("For our final project we wanted to delve into the domain of education and
+   h4("We wanted to delve into the domain of education and
       analyze factors such as literacy rates and educational investments to 
       uncover glova inequities."),
    h5("We first became interested in this domain because:"),

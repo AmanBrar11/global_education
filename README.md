@@ -1,6 +1,6 @@
 # **Domain of Interest: Education**
 
-# **Link to our app: https://amanbrar11.shinyapps.io/final-project-notachevy/**
+# **Link to our app: https://amanbrar11.shinyapps.io/global_education/**
 
 ## Why are you interested in this field/domain?
 - We are interested in this domain because we:

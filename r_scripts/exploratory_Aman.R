@@ -1,5 +1,5 @@
 # Gets literacy rates data and stores 'NA' in empty cells.
-literacy_rates <- read.csv("https://raw.githubusercontent.com/info-201a-au21/final-project-notachevy/main/data/cross-country-literacy-rates.csv?token=AT6RNRD7OEFAZQLUU673UPTBYQR7C",
+literacy_rates <- read.csv("https://raw.githubusercontent.com/AmanBrar11/global_education/main/data/cross-country-literacy-rates.csv",
                            na.strings=c("","NA"))
 
 # Changes the column names for 'literacy_rates' to more logical labels.                        

@@ -10,7 +10,7 @@ library(plotly)
 
 # Load children out of primary school worldwide data into variable
 # named 'out_school'
-out_school_raw <- read.csv(file = "https://raw.githubusercontent.com/info-201a-au21/final-project-notachevy/main/data/out-of-school-children-of-primary-school-age-by-world-region.csv?token=AV3RG3EPHPHOY67L6OE22S3BYQRZC")
+out_school_raw <- read.csv(file = "https://raw.githubusercontent.com/AmanBrar11/global_education/main/data/out-of-school-children-of-primary-school-age-by-world-region.csv")
 
 # Change the column names for 'out_school' to more logical labels.                        
 colnames(out_school_raw) <- c("Country", "Code", "Year", "Out_Of_School")

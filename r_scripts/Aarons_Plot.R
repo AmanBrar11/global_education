@@ -5,7 +5,7 @@ library(plotly)
 library(dplyr)
 
 # load data int0 govtExpenditures variable
-govtExpenditures <- read.csv("https://raw.githubusercontent.com/info-201a-au21/final-project-notachevy/main/data/average-reading-performance-in-pisa-and-average-spending-per-student.csv?token=AT6RNREDCEWVW3PEY2SX5OTBYQP2K")
+govtExpenditures <- read.csv("https://raw.githubusercontent.com/AmanBrar11/global_education/main/data/average-reading-performance-in-pisa-and-average-spending-per-student.csv")
 
 # Change column names to something more understandable
 colnames(govtExpenditures) <- c("Entity", 

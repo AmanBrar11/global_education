@@ -1,0 +1,13 @@
+name: global_education
+title: global_education
+username:
+account: amanbrar11
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5462952
+bundleId: 5481889
+url: https://amanbrar11.shinyapps.io/global_education/
+when: 1642528540.01465
+lastSyncTime: 1642528540.01465
+asMultiple: FALSE
+asStatic: FALSE
